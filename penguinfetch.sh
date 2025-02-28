@@ -1,10 +1,8 @@
 chafa
-echo 'Distribucion Linux: Penguin-OS'
+echo 'Distribucion Linux: Linum OS'
 echo 'Kernel:'
 uname -r
 echo 'Arquitectura:'
 getconf LONG_BIT
-echo 'Gestor de paquetes:'
-apt
-pacman
+echo 'Gestor de paquetes: PKG (APT)'
 
