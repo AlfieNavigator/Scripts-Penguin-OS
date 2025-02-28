@@ -1,4 +1,2 @@
-echo '3'
-echo '2'
-echo '1'
+sudo apt install links2
 links2 -g https://www.hostinger.com/tutorials/linux-commands
